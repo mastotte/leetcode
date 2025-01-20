@@ -1,3 +1,4 @@
+#include <string>
 class Solution {
 public:
     string removeSpaces(string s){
